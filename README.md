@@ -28,7 +28,7 @@ All vanilla foods automatically participate in this system while maintaining the
 
 ### 📦 Data Pack Integration
 **structure of datapack**
-
+```
 📂 `nutricraft_datapack`
 └─ 📂 `data`
         └─ 📂 `nutricraft`
@@ -36,7 +36,7 @@ All vanilla foods automatically participate in this system while maintaining the
                  ├─  `beef.json` 
                  ├─  `golden_carrot.json`
                  └─ ... (all food items)
-
+```
 
 **structure data**
 ```json
